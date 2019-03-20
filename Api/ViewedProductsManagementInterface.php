@@ -13,4 +13,3 @@ interface ViewedProductsManagementInterface
      */
     public function getViewedProducts($param);
 }
-git
